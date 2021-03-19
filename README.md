@@ -1,6 +1,4 @@
-### Hi there, I AM MD.ARIYAN ASHFAQUE MOSTAFA [website] 👋
-
-[(https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][protfolio]
+### Hi there, I AM MD.ARIYAN ASHFAQUE MOSTAFA [portfolio] 👋
 
 ## I AM A FRONT-END DEVELOPER AND UI/UX DESIGNER !!!
 
