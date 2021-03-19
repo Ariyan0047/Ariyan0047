@@ -34,9 +34,6 @@
 <br/>
 
 ### [PORTFOLIO][portfolio]
-### [LINKEDIN][linkedin]
-### [STACKOVERFLOW][stackoverflow]
-### [GITHUB][github]
 
 [portfolio]: https://ariyan0047.github.io/Portfolio-Master/
 [linkedin]: https://www.linkedin.com/in/ariyan0047
