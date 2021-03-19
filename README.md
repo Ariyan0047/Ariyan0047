@@ -24,7 +24,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-[portfolio]: https://ariyan0047.github.io/Portfolio-Master/
+<!-- [portfolio]: https://ariyan0047.github.io/Portfolio-Master/
 [linkedin]: https://www.linkedin.com/in/ariyan0047
 [stackoverflow]: https://stackoverflow.com/users/11912821/ariyan-ashfaque-mostafa
-[github]: https://github.com/Ariyan0047
+[github]: https://github.com/Ariyan0047 -->
