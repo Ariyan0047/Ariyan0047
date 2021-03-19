@@ -3,10 +3,10 @@
 ## `I AM A FRONT-END DEVELOPER AND UI/UX DESIGNER !!!`
 
 - 🌱 I’m currently learning react js and redux.
-- 🥅 2020 Goals: Contribute more to my github profile.
+- 🥅 2021 Goals: Contribute more to my github profile.
 - ⚡ Fun fact: I love to watch anime a lot.
 
-### `Connect with me:`
+## `Connect with me:`
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -14,7 +14,7 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 
-### `Languages and Tools:`
+## `Languages and Tools:`
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
