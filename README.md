@@ -1,6 +1,6 @@
-## `HI THERE, I AM MD.ARIYAN ASHFAQUE MOSTAFA`
+### HI THERE, I AM MD.ARIYAN ASHFAQUE MOSTAFA
 
-## `I AM A FRONT-END DEVELOPER AND UI/UX DESIGNER`
+### I AM A FRONT-END DEVELOPER AND UI/UX DESIGNER
 
 - 🌱 I’m currently learning react js and redux.
 - 🥅 2021 Goals: Contribute more to my github profile.
@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-## [PORTFOLIO][portfolio]
+### [PORTFOLIO][portfolio]
 
 
 [portfolio]: https://ariyan0047.github.io/Portfolio-Master/
